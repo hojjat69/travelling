@@ -1,5 +1,5 @@
 # travelling
-In this repository I provide back-end codes including Django as well as HTML, CSS and JS files with images to create front-end of the web. This website is developed for Travel Agencies. It is able of dynamic visualization in the destinations and users part. 
+In this repository I provide back-end codes including Django as well as HTML, CSS and JS files with images to create front-end of the web. This website is developed for Travel Agencies. It is able of dynamic visualization in the destinations and users part. The back-end of the Django application (index) gives full management of the database and infos for destinations part for admin users. It also provides admin users to manage the other non-admin users.  
 
 Steps to Visualize the Web:
 
