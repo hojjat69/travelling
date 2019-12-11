@@ -8,7 +8,9 @@ Steps to Visualize the Web:
 Then you should make changes to DATABASES of the setting.py >>
 It requires user name and the password you have created during installation of PostGreSQL. More importantly you need to install the Pgadmin to create database with specific name and you need to enter this name next to the "NAME" section. At the end you need to set the localhost and the port below given to you by PostGresSQL during installation.
 
-As we 
+
+
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -19,6 +21,11 @@ DATABASES = {
         'PORT': 'your port',
       }
     }
+    
+    
+    
+    
+    
 2. You will also need the connector between Django and PostGreSQL which is called psycopg2. you can use pip tools in python to install  
    it by following command in cmd: 
    pip install psycopg2
