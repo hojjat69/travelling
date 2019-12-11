@@ -6,7 +6,7 @@ Steps to Visualize the Web:
 1. You need to install Python as well as PostGreSQL on your computer to visualize the web. 
 2. Setting a localdatabase: 
 Then you should make changes to DATABASES of the setting.py >>
-It requires user name and the password you have created during installation of PostGreSQL. More importantly you need to install the Pgadmin to create database with specific name and you need to enter this name next to the "NAME" section. At the end you need to set the localhost and the port below given to you by PostGresSQL during installation.
+It requires user name and the password you have created during installation of PostGreSQL. Additionally, you need to install the Pgadmin to create database with specific name and you need to enter this name next to the "NAME" section. At the end you need to set the localhost and the port according to what is given by PostGresSQL during installation.
 
 
 
