@@ -37,3 +37,4 @@ DATABASES = {
 7. Open your browser and browse http://127.0.0.1:8000/
   
 Enjoy your browsning ;)  
+ 
