@@ -1,5 +1,5 @@
 # travelling
-In this repository I provide back-end python codes (Django package) as well as HTML, CSS and JS files the  travel agency web. It has two application called index and account. Account is an pplication for user sign-up, sign-in, sign-out functionalities. Index is used for visualization of the destinations in the homepage. 
+In this repository I provide back-end python codes (Django package) as well as HTML, CSS and JS files for the  travel agency web. It has two application called index and account. Account is an pplication for user sign-up, sign-in, sign-out functionalities. Index is used for visualization of the destinations in the homepage. 
 
 Steps to Visualize the Web:
 
